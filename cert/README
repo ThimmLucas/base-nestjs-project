@@ -1,0 +1,2 @@
+This folder may be used to add ssl keys for build, operation or development purposes.
+Altough build certificates should not be stored in source code.
